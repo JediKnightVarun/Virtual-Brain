@@ -1,0 +1,64 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 (ID=0x1004)
+    Vendor:   NVIDIA
+    VRAM:     3039 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.155 seconds
+Platform assembly: C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Heracleia\Desktop\Varun HCI Class Team 1\brain - V6\Virtual_Brain_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 59Hz; virtual: 4880x1201 at -1600,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.257700 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1788 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.036862 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 688.
+Total: 1.021971 ms (FindLiveObjects: 0.035776 ms CreateObjectMapping: 0.020527 ms MarkObjects: 0.677697 ms  DeleteObjects: 0.086801 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.854526 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 669.
+Total: 0.348966 ms (FindLiveObjects: 0.036069 ms CreateObjectMapping: 0.019647 ms MarkObjects: 0.265390 ms  DeleteObjects: 0.027565 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.930771 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 713.
+Total: 1.031942 ms (FindLiveObjects: 0.045160 ms CreateObjectMapping: 0.021700 ms MarkObjects: 0.281225 ms  DeleteObjects: 0.683269 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.379463 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 713.
+Total: 0.675938 ms (FindLiveObjects: 0.076831 ms CreateObjectMapping: 0.021700 ms MarkObjects: 0.571835 ms  DeleteObjects: 0.004105 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.925199 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1100.
+Total: 0.542803 ms (FindLiveObjects: 0.064221 ms CreateObjectMapping: 0.037829 ms MarkObjects: 0.425210 ms  DeleteObjects: 0.014662 ms)
+
