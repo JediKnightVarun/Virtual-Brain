@@ -23,7 +23,7 @@ To Run-
 
 How to use: 
 After loading the application wear the VR headset with the head phones.
-Raise your hands in front of you for the lap motion device to detect.
+Raise your hands in front of you for the leap motion device to detect.
 Look to your right for the buttons (The buttons are always on your right).
 Select the next button. This will lead you to the tutorial.
 The tutorial will explain how to interact with the system.
