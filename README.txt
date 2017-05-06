@@ -8,7 +8,7 @@ Requirements:
 1- Oculus Rift (Atleast DK2)
 2- Leap Motion (Orion or better)
 3- VR ready machine 
-4- Unity 5.5.1
+4- Unity 5.5.1(optional)
 
 
 To Run- 
